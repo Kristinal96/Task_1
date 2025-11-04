@@ -1,0 +1,9 @@
+com\example\DatabaseTest.class
+com\example\BurgerTest$TestMoveIngredient.class
+com\example\BunTest.class
+com\example\BurgerTest$TestAddRemoveIngredients.class
+com\example\BurgerTest$TestSetBuns.class
+com\example\BurgerTest.class
+com\example\BurgerTest$TestGetReceipt.class
+com\example\IngredientTest.class
+com\example\IngredientTypeTest.class
